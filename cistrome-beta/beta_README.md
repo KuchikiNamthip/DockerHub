@@ -9,7 +9,8 @@ The image is based on **Ubuntu 20.04** with:
 - Cistrome BETA v1.0.7 installed from source
 - Non-root user mapping (`betauser`) for safer execution
 
-Docker file can be found on [my GitHub repository](https://github.com/KuchikiNamthip/DockerHub/tree/main/DockerHub/cistrome-beta)
+Docker file can be found on [my GitHub repository](https://github.com/KuchikiNamthip/DockerHub/tree/main/cistrome-beta)
+
 ---
 
 ## 🔹 Quick Start

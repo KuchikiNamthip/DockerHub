@@ -29,7 +29,7 @@ docker run --rm -it kuchikinamthip/cistrome-beta:1.0.7_kk1.0
 Check BETA:
 
 ```bash
-beta -h
+BETA -h
 ```
 
 ---

@@ -1,4 +1,4 @@
-# Cistrome BETA 1.0.7 (Docker)
+# [Cistrome BETA 1.0.7 (Docker)](https://hub.docker.com/repository/docker/kuchikinamthip/cistrome-beta/general) 
 
 This repository provides a prebuilt Docker image for [Cistrome BETA](http://cistrome.org/BETA/),  
 a tool for integrative analysis of ChIP-seq and RNA-seq data.
@@ -9,6 +9,7 @@ The image is based on **Ubuntu 20.04** with:
 - Cistrome BETA v1.0.7 installed from source
 - Non-root user mapping (`betauser`) for safer execution
 
+Docker file can be found on [my GitHub repository](https://github.com/KuchikiNamthip/DockerHub/tree/main/DockerHub/cistrome-beta)
 ---
 
 ## 🔹 Quick Start

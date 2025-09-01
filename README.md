@@ -26,4 +26,4 @@ This repository stores the **Dockerfiles** used to build and publish images unde
 End users should pull images directly from Docker Hub, e.g.:
 
 ```bash
-docker pull kuchikinamthip/cistrome-beta:1.0.7-ubuntu20.04-py2
+docker pull kuchikinamthip/cistrome-beta:1.0.7_kk1.0

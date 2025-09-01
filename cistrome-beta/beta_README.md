@@ -151,11 +151,4 @@ If you use Cistrome BETA in your research, please cite:
 Wang, S., Sun, H., Ma, J. et al. Target analysis by integration of transcriptome and ChIP-seq data with BETA. *Nat Protoc* 8, 2502–2515 (2013).
 DOI: [10.1038/nprot.2013.150](https://doi.org/10.1038/nprot.2013.150)
 
-```
-
----
-
-✨ Now users have **three levels of options**:  
-- Minimal (`docker run …`)  
-- With manual egg-cache fix  
-- One-liner that automates everything  
+``` 
